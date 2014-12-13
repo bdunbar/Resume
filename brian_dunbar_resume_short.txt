@@ -1,0 +1,83 @@
+Brian K. Dunbar
+618 Elba Drive
+Goodlettsville, TN  37072
+(615) 926-3701
+brian.dunbar@gmail.com
+
+SUMMARY
+Proactive systems administrator with in-depth experience managing and maintaining UNIX and Windows servers in local and wide  area networks.  Expertise with network management software, personal computer and network hardware, and many manufacturing and productivity applications.
+
+TECHNICAL SKILLS
+
+OPERATING	Linux, Solaris, Windows Server, OS X, F5 Big-IP
+SYSTEMS:
+
+NETWORK:	F5 Big-IP Local Traffic Manager, Juniper, managed switches
+
+HARDWARE:	SPARC servers, Intel servers, Juniper managed switches, bar-code scanners, hubs, switches, printers
+
+SOFTWARE:	AWS, Ansible, Puppet, Oracle 9iAS, 10G, Apache, Agile PLM, JDE aware applications, and many widely used business applications.
+
+LANGUAGES:	BASH. Familiarity with PERL, SQL, PSH
+
+EXPERIENCE
+
+Cicayda LLC, Nashville, Tennessee  			July, 2013 – December 2014
+Legal Technology and Services
+
+Systems Administrator
+
+Systems administrator for small, growing company in the legal technology field.  Responsible for day-to-day administration including production SaaS system, customer service support teams, for a diverse set of systems: local data center, Amazon Web Services hosts.
+
+During an unexpected systems outage following a migration from AWS to hosted systems, spearheaded restoration of systems on AWS, including customer data.
+
+Assisted migration of existing Ansible framework from version 1.1 to 1.5, requiring major restructure of logic and associated playbooks.
+
+Stood up and configured Active Directory and related services for Services group, including processing services and server farm.
+
+
+PLEXUS CORPORATION, Neenah, Wisconsin	           September 2003 – July, 2013
+Electronics Manufacturer
+
+Systems Administrator
+
+Systems Administrator with Enterprise Resource Planning group, providing systems administration for global deployment and operation of the JDE ERP system. Responsible for deployment and operation of manufacturing systems utilizing JDE, Oracle and related technology, including Oracle, Agile PLM, AribaBuyer, bar code scanning systems, label printing systems and file, print and fax services, on Solaris and Windows Servers.
+
+Led pilot project to implement orchestration and management of servers using Puppet  automation software.  Project successfully managed a dozen servers, turned over pilot to my peers on departure from the corporation.
+Participated in six implementations of JDE system in remote facilities, with no unplanned production outages.  During these roll outs directly responsible for success of bar code scanning and label printing system.
+
+Responsible for installation and operation of AribaBuyer purchase order system, enabling purchasing department to centralize operations, eliminate costly and redundant paper-based purchasing system, and reducing cost-to-purchase from (estimated) $10 per transaction to less than $1,00 per, as well as increasing speed of purchase order from weeks to hours.
+
+Upgraded Product Lifecycle Management software to major new version, while moving systems to a virtual environment, changing application servers to new platform. Directly responsible for upgrade on-time and with only planned disruption. Directly responsible for implementing F-5 Big-IP local traffic management (LTM) allowing for transparent failover and ease of maintenance.
+Expanded Local Traffic Management (LTM) to include mission-critical in-house shop-floor system, allowing for easier growth and maintenance of web-server farm. Became familiar with F5's TCL-based iRule language to manage traffic flow, inject data in payloads.
+
+PLEXUS CORPORATION, Dallas, TX			            October 2000 – 2003
+Electronics Manufacturer
+
+Systems Administrator
+
+Systems Administrator with a printed circuit board (PCB) design bureau., providing desktop and systems administration. Responsible for file, fax and print services, desktop maintenance, CAD tool setup and administration of automated process taking design from customer to fabrication facility, using Solaris, Windows server.
+
+Implemented major revision upgrade of Mentor Graphics (PCB CAD tool) including integration with existing automation and tool set, with no unplanned system outages and no loss of productivity.
+
+Utilizing ‘found’ hardware in storage, retrieved CAD files from a ten year old backup tape set that, while not directly billable, provided enormous good-will to customer, who was otherwise facing a major re-engineering effort.
+
+TECHNICAL EDUCATION AND CERTIFICATION
+
+Network Appliance Data ONTAP Fundamentals - 2006
+
+Solaris 9 Advanced Administration - 2003
+
+Certified Solaris 7 System Administrator - 2000
+
+Solaris 7 System Administration I and II - 2000
+
+Network Operations Management Seminar - 1999
+
+7 Habits of Highly Effective People - 1999
+
+Core Technologies of MS Exchange Server 5.0 - 1997
+
+Certified Banyan Specialist - 1996
+
+Small Computer Systems Course - 1992
